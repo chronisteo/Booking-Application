@@ -5,7 +5,6 @@ The **Booking Application** is a Java-based system designed to manage reservatio
 
 The application supports both **customers** and **providers/owners** and includes an **administrative interface** for managing users, accommodations, and reservations.
 
----
 
 ## Key Features
 
